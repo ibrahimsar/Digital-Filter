@@ -1,6 +1,6 @@
 # Flexible Digital Filter(Low-pass filter)
 # 
-# Developer: Ibrahim Sarpani 1411733 IIUM
+# Developer: Ibrahim Sarpani 
 #
 # May 2018
 #
